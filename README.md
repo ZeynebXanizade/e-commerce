@@ -1,16 +1,4 @@
-# ui_design
+# favori
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+In the application, you can add to favorites, add to basket, and search.
+To see : https://www.linkedin.com/posts/zeyn%C9%99b-xan%C4%B1zad%C9%99-code_flutter-search-activity-7168517699596197888-oPZk?utm_source=share&utm_medium=member_desktop  and  https://www.linkedin.com/posts/zeyn%C9%99b-xan%C4%B1zad%C9%99-code_flutter-dart-dio-activity-7165774503267008512-UCXM?utm_source=share&utm_medium=member_desktop
